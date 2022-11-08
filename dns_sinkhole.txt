@@ -1,2 +1,2 @@
-web3-lab.com
-med-info.ru
+*.web3-lab.com
+*.med-info.ru
